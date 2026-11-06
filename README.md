@@ -1,5 +1,7 @@
 # Cycle-1-3-IMPLEMENTATION-OF-LINK-STATE-ROUTING-PROTOCOL-OSPF-
 # 🧪 IMPLEMENTATION OF LINK STATE ROUTING PROTOCOL (OSPF)
+# NAME : SHIYAM KUMAR S
+# REG NO : 212223060260
 
 ## 🎯 AIM
 To connect computers in multiple networks using Open Shortest Path First (OSPF) Routing Protocol and to verify the connectivity between computers.
@@ -35,10 +37,11 @@ To connect computers in multiple networks using Open Shortest Path First (OSPF) 
 ---
 
 ## 🗺️ NETWORK DIAGRAM
-*(Insert diagram or screenshot from Packet Tracer)*
 
----
-<img width="919" height="378" alt="image" src="https://github.com/user-attachments/assets/ca993ef1-ac39-413a-a79b-bd26f9cc0615" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-17 104241" src="https://github.com/user-attachments/assets/71b43a77-bb4c-4791-b771-e169dd267f2b" />
+
 
 
 ## 🧭 PROCEDURE
@@ -109,8 +112,12 @@ Router0# show ip route
 Router1# show ip route
 ```
 ## 📤 OUTPUT
----
-<img width="841" height="1013" alt="image" src="https://github.com/user-attachments/assets/54e37780-24ab-404b-bcdf-566a194afcb9" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-17 104135" src="https://github.com/user-attachments/assets/1a9a711d-3f64-4513-91c7-e2270302ead0" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-17 104214" src="https://github.com/user-attachments/assets/cabcb061-d611-4fdf-9fa3-3382d55e7fa7" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-17 104045" src="https://github.com/user-attachments/assets/a755e4f0-750d-4a44-bac3-e4f5be2096c7" />
 
 
 
